@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+data/sgc.sqlite3
+data/uploads/*
+data/backups/*
+logs/*
+.streamlit/secrets.toml
